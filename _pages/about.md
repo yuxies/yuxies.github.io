@@ -14,4 +14,4 @@ My research focuses on mixed-integer bilevel linear programming (MIBLP) algorith
 
 I am also a member of [Lehigh University Choral Arts](https://choralarts.lehigh.edu/). Every year, we have our Fall concert in October, Christmas Versper's in December, and Spring concerts in March and May. 
 
-I am learning Spanish (for Flamenco dance and music), Japanese (to pick up where I left off in high school), Latin (to understand choir pieces), Arabic (for its alphabet and culture), and Russian (a friend is also learning it) on Duolingo and Thai (a friend's native language) on Drops.
+I am learning Spanish (for Flamenco dance and music), Japanese (to pick up where I left off in high school), Latin (to understand choir pieces), Arabic (for the characters and culture), and Russian (a friend is also learning it) on Duolingo and Thai (a friend's native language) on Drops.
